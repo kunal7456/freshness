@@ -1,0 +1,6 @@
+streamlit==1.25.0   # The latest compatible version of Streamlit
+ultralytics         # YOLOv8 package for object detection
+Pillow              # For image processing
+numpy               # For numerical computations
+opencv-python      # For image annotation and processing
+matplotlib          # Optional, for visualizations (if needed)
